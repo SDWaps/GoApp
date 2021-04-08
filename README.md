@@ -1,5 +1,5 @@
 # GoApp
-Simple app creator for businesses
+##Simple app creator for businesses
 
 Android app made in: MitAi2
 iOS App made in: Thunkable
